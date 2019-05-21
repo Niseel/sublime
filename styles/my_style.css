@@ -1,0 +1,12 @@
+.formError_DK_user, .formError_DK_mail, .formError_DK_pass, .formError_DK_repass, .formError_DN_user, .formError_DN_pass{
+	color: red;
+}
+.details_discount
+{
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	color: #e95a5a;
+	margin-right: 20px;
+	text-decoration: line-through;
+}

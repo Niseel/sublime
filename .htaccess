@@ -1,0 +1,8 @@
+RewriteEngine On
+
+Options +Indexes
+IndexOptions FancyIndexing
+#DirectoryIndex /sublime/forbidden.html
+
+#RewriteRule ^forbidden.error?$ /new/seven.forbidden.html [L]
+#IndexIgnore *.php
